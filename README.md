@@ -16,7 +16,7 @@ Cons:
 
 Complex to set up and configure initially.
 
-Licensing and enterprise pricing can be prohibitive for small teams.
+Licensing and enterprise pricing can be prohibitive for small teams.\
 
 
 2. Tonic.ai
@@ -35,7 +35,7 @@ Cons:
 
 Limited support for large-scale data virtualization compared to Delphix.
 
-Advanced features may require enterprise pricing tiers.
+Advanced features may require enterprise pricing tiers.\
 
 
 3. Commvault
