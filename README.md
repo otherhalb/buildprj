@@ -1,7 +1,8 @@
 # buildprj
 
 1. Delphix
-Overview: Delphix is a market leader in test data management, providing advanced data virtualization, masking, and automation features.
+Overview:
+Delphix is a market leader in test data management, providing advanced data virtualization, masking, and automation features.
 
 Pros:
 
@@ -17,8 +18,10 @@ Complex to set up and configure initially.
 
 Licensing and enterprise pricing can be prohibitive for small teams.
 
+
 2. Tonic.ai
-Overview: Tonic.ai specializes in generating realistic fake data that mimics production data for safe development and testing.
+Overview:
+Tonic.ai specializes in generating realistic fake data that mimics production data for safe development and testing.
 
 Pros:
 
@@ -34,8 +37,10 @@ Limited support for large-scale data virtualization compared to Delphix.
 
 Advanced features may require enterprise pricing tiers.
 
+
 3. Commvault
-Overview: Commvault is a robust data backup and recovery platform that also provides test data management features.
+Overview:
+Commvault is a robust data backup and recovery platform that also provides test data management features.
 
 Pros:
 
