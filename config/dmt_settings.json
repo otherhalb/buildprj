@@ -1,0 +1,9 @@
+{
+  "mongo": {
+    "source_uri": "mongodb://localhost:27017",
+    "source_db": "mydata",
+    "target_uri": "mongodb://localhost:27017",
+    "target_db": "clean_mydata",
+    "dump_archive": "/tmp/mongo_backup.archive.gz"
+  }
+}
